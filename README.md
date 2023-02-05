@@ -7,7 +7,7 @@ A simple and easy to use todo app built using HTML, CSS, JavaScript, Node.js, Ex
 - MongoDB account and a database set up.
 
 # Getting Started
-1. Clone the repository git clone https://github.com/Todo-List.git
+1. Clone the repository git clone https://github.com/KratikSoni1104/Todo-List.git
 2. Install dependencies by running npm install in the terminal.
 3. Create a .env file and add the following environment variables:
   - DB_CONNECTION: Your MongoDB database connection string.
